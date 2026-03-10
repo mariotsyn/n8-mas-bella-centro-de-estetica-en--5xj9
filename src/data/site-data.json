@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "Más Bella - Centro de estética en Denia",
+    "tagline": "Más Bella: Tu centro de bienestar en Dénia.",
+    "description": "En Más Bella, combinamos 15 años de experiencia con tecnología avanzada para ofrecerte tratamientos de belleza y estética de la más alta calidad en Dénia. Nuestro compromiso es tu bienestar y la consecución de resultados espectaculares, avalados por la satisfacción de nuestros clientes.",
+    "phone": "+34 669 88 96 39",
+    "address": "Carrer Bacallà, 1, 03700 Dénia, Alicante, España",
+    "email": "info@masbella-denia.es",
+    "rating": 4.9,
+    "reviewCount": 108,
+    "hours": ["Monday: Closed","Tuesday: 9:30 AM – 7:00 PM","Wednesday: 9:30 AM – 7:00 PM","Thursday: 9:30 AM – 7:00 PM","Friday: 9:30 AM – 7:00 PM","Saturday: 9:00 AM – 2:30 PM","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#E0BBE4",
+    "secondary": "#4A274A",
+    "accent": "#FFC0CB",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Transforma tu Belleza en Más Bella Dénia",
+    "subheadline": "Descubre una piel radiante y un cuerpo revitalizado con nuestros tratamientos expertos, tecnología avanzada y más de 15 años cuidando tu belleza.",
+    "cta1": { "text": "Reservar Cita Ahora", "href": "#contact" },
+    "cta2": { "text": "Descubre Nuestros Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ9ef9dXAbnhIRVQB9BsqPRsQ/photos/ATCDNfXXKpzXOnCHfBKgpP9wjELgwyh2qBLB8Ow309IsCQjewa5Fjs3qZU-uXzzEWIGtbEI5DB94xGjtHyoKvfeGpd7oSdCuZCqykgqPVGv7E_WKwf0n09GnCDRn7qzGasxm8Y_sGfh0_GK7eIiutGgI8XUp060PuaScuApKZz_W6vBRxkgrQCki9oKTCejb2P1fK4dKcRoiaB_dVarSfdP5J6e6zUcc1GIskH5Am0p8k5pu9HK5YHplAMF6pjYQimQB_gCFMCg7rTypc0VXGCRy4ZN2Wh6CbLV8onP0XKCs-Pr8iA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "✨", "title": "Tratamientos Faciales", "description": "Revitaliza tu rostro con Dermapen u otros tratamientos profesionales. Una piel más elástica, firme y joven te espera, con ofertas como Dermapen por solo 79€." },
+    { "icon": "💖", "title": "Fotodepilación Avanzada", "description": "Di adiós al vello con nuestra tecnología de última generación. Máxima eficacia, bonos exclusivos y una zona pequeña de regalo en tu primera sesión." },
+    { "icon": "💅", "title": "Manicura y Pedicura", "description": "Presume de manos y pies perfectos con nuestros servicios de manicura y pedicura. Disfruta del pack conjunto por solo 59€." },
+    { "icon": "💆‍♀️", "title": "Masajes Terapéuticos", "description": "Relaja cuerpo y mente con nuestros masajes personalizados. Un oasis de bienestar para desconectar y aliviar tensiones." }
+  ],
+  "about": {
+    "title": "Más de 15 Años Cuidando Tu Belleza en Dénia",
+    "text": "En Más Bella, no solo ofrecemos tratamientos; te brindamos una experiencia de transformación y bienestar. Con una trayectoria de más de 15 años, nuestro centro se ha consolidado como un referente en Dénia, gracias a un equipo de expertos apasionados por la estética y a la incorporación constante de la tecnología más avanzada.\n\nNuestra filosofía se centra en tres pilares: Calidad, Resultados y Experiencia. Trabajamos exclusivamente con productos de primera línea para garantizar la excelencia en cada servicio, y nuestros resultados nos avalan con valoraciones de 5 estrellas en Google. La dedicación y el mimo de profesionales como Isabel hacen que cada visita sea una experiencia única y personalizada.\n\nTe invitamos a conocernos y a descubrir por qué Más Bella es la elección perfecta para quienes buscan lo mejor en estética. Empieza a cuidarte y a ahorrar con nuestra tarjeta de fidelización, donde cada euro suma puntos canjeables por servicios o productos.",
+    "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJ9ef9dXAbnhIRVQB9BsqPRsQ/photos/ATCDNfXXKpzXOnCHfBKgpP9wjELgwyh2qBLB8Ow309IsCQjewa5Fjs3qZU-uXzzEWIGtbEI5DB94xGjtHyoKvfeGpd7oSdCuZCqykgqPVGv7E_WKwf0n09GnCDRn7qzGasxm8Y_sGfh0_GK7eIiutGgI8XUp060PuaScuApKZz_W6vBRxkgrQCki9oKTCejb2P1fK4dKcRoiaB_dVarSfdP5J6e6zUcc1GIskH5Am0p8k5pu9HK5YHplAMF6pjYQimQB_gCFMCg7rTypc0VXGCRy4ZN2Wh6CbLV8onP0XKCs-Pr8iA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Interior moderno y acogedor del Centro de Estética Más Bella en Dénia." },
+    { "url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80", "alt": "Manos recibiendo un tratamiento de spa y manicura en un salón de belleza." },
+    { "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80", "alt": "Primer plano de una mujer relajándose durante un tratamiento facial con mascarilla." }
+  ],
+  "testimonials": [
+    { "name": "Luciana Díaz", "stars": 5, "text": "Un trato increíble, sin duda vuelvo a venir y recomiendo a todas mis personas cercanas. ¡Gracias a Isabel y a todo el equipo!" },
+    { "name": "Aitana Femenia", "stars": 5, "text": "Para mí Isa es la mejor, aunque estés sufriendo quizás por el láser, se hace ameno gracias a ella. ¡Me encanta!" },
+    { "name": "Ana Marlene Villalobos", "stars": 5, "text": "Excelente trato y servicio. Isabel es super agradable y profesional. ¡Muy recomendado en masajes y Microblanding!" }
+  ],
+  "contact": {
+    "title": "¿Lista para Sentirte Más Bella?",
+    "subtitle": "Ponte en contacto con nosotros hoy mismo. Nuestros expertos te asesorarán profesionalmente y te darán el mejor servicio adaptado a tus necesidades. ¡Te esperamos!",
+    "whatsappNumber": "+34 669 88 96 39",
+    "showMap": true,
+    "mapQuery": "Más Bella - Centro de estética en Denia Carrer Bacallà, 1, 03700 Dénia, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Más Bella - Centro de estética en Denia"
+  }
+}
